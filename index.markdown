@@ -7,6 +7,8 @@ title: Youngsu Kim
 ---
 This site is under construction. Please use, [https://sites.google.com/view/youngsu-kim](https://sites.google.com/view/youngsu-kim) 
 
+Test
+
 I am an assistant professor at California State University San Bernardino in the department of mathematics. Formerly, I was a visiting assistant professor at the University of Arkansas and University of California Riverside. I earned my PhD from Purdue University under the guidance of Prof. Bernd Ulrich.  My main interest is commutative algebra and algebraic geometry. <br>
 Office: JB 320 <br>
 
