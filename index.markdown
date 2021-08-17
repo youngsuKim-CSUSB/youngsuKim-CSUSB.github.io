@@ -7,25 +7,27 @@ title: Youngsu Kim
 ---
 This site is under construction. Please use, [https://sites.google.com/view/youngsu-kim](https://sites.google.com/view/youngsu-kim) 
 
-Test
+I am an assistant professor at California State University San Bernardino in the department of mathematics. Formerly, I was a visiting assistant professor at the University of Arkansas and University of California Riverside. I earned my PhD from Purdue University under the guidance of Prof. Bernd Ulrich.  My main interest is commutative algebra and algebraic geometry. 
 
-I am an assistant professor at California State University San Bernardino in the department of mathematics. Formerly, I was a visiting assistant professor at the University of Arkansas and University of California Riverside. I earned my PhD from Purdue University under the guidance of Prof. Bernd Ulrich.  My main interest is commutative algebra and algebraic geometry. <br>
-Office: JB 320 <br>
+Office: JB 320
 
-... which is shown in the screenshot below:
-![My helpful screenshot](/assets/myImage.jpg)
-![aa](/assets/myImage.jpg =250x)
+<!-- ![My helpful screenshot](/assets/myImage.jpg)
+![aa](/assets/myImage.jpg)
+<img src="/assets/myImage.jpg" width="200"> -->
 
-| Tables        | Are           | Cool  |
+
+<!-- | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 | -->
 
 <!-- Email: youngsu.kim at csusb.edu -->
-CV
-<!-- CV, updated Aug. 2020. -->
-If you are taking my course at CSUSB, the information about your course is available in Canvas/Blackboard.
+[CV](https://github.com/youngsuKim-CSUSB/CV/blob/e96ed6cc88978e019bf0cbeb9eb5b715a5d6f5cc/CV_Youngsu_Kim.pdf), updated Aug. 2020.
+
+Current students: the information about your course is available in Canvas/Blackboard.
+
+For letters: read this page.
 <br>
 
 <H2> Publications/Work in progress </H2>
