@@ -1,15 +1,11 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-# title: Main
+title: Letter for students
 ---
 This site is under construction. Please use, [https://sites.google.com/view/youngsu-kim](https://sites.google.com/view/youngsu-kim) 
 
-{{ site.posts[0].content }}
-
-{{ site.posts[1].content }}
 
 <!-- | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
