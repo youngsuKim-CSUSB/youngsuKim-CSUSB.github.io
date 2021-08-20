@@ -5,10 +5,9 @@
 layout: default
 # title: Main
 ---
-This site is under construction. Please use, [https://sites.google.com/view/youngsu-kim](https://sites.google.com/view/youngsu-kim) 
+<!-- This site is under construction. Please use, [https://sites.google.com/view/youngsu-kim](https://sites.google.com/view/youngsu-kim)  -->
 
 {{ site.posts[0].content }}
-
 {{ site.posts[1].content }}
 
 <!-- | Tables        | Are           | Cool  |
