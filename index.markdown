@@ -9,6 +9,7 @@ layout: default
 
 {{ site.posts[0].content }}
 {{ site.posts[1].content }}
+{{ site.posts[2].content }}
 
 <!-- | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
