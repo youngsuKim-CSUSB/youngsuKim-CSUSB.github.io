@@ -15,5 +15,5 @@ categories: students department CSUSB
 ## Current students: 
   * The information about your course is available in [Canvas/Blackboard](https://my.csusb.edu/default/mycoyote/index).
   
-## [Letter of recommendations/master thesis (or commitee)]({{ 'for-students.html' | relative_url }})   
+## [Letter of recommendations/master thesis]({{ 'for-students.html' | relative_url }})   
 ## [Informal math event list](https://youngsukim-csusb.github.io/CSUSB-Math-This-Week/)
