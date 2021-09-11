@@ -18,4 +18,3 @@ layout: default
 | zebra stripes | are neat      |    $1 | -->
 
 <!-- Email: youngsu.kim at csusb.edu -->
-

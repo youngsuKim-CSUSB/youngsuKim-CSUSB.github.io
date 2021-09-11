@@ -17,5 +17,3 @@ categories: students department CSUSB
   
 ## [Letter of recommendations/master thesis]({{ 'for-students.html' | relative_url }})   
 ## [Informal math event list](https://youngsukim-csusb.github.io/CSUSB-Math-This-Week/)
-
-## [File upload form](https://docs.google.com/forms/d/e/1FAIpQLSdp1JPXNdAykxoD_xpwynKTf1fQTJpYr9ycYibky8hcfGvbWg/viewform?usp=sf_link)
