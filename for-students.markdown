@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: For students at CSUSB
+title: CSUSB Students
 ---
 ## Letter of Recommendation
 Please use the Google form link below to submit a request for a letter of recommendation. Please do not send a link before contacting me. They are often read in the last among the emails I receive.

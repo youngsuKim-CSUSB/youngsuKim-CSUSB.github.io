@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: MyOpenMath on Canvas
+title: MOM on Canvas
 ---
 ## A summary of how to add MyOpenMath to CSUSB Canvas LMS
 
