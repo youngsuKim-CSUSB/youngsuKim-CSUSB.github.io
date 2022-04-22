@@ -9,6 +9,7 @@ tag: MAA S2022 Poster
 - For posters, click on the title.
 - Presentation 13 and 18 are virtual.
 - All files in the PDF format.
+- A [link](http://sections.maa.org/socalnv/Meeting2022Spring.html) to the Meeting Schedule Page
 
 1. **Presenter(s)**: Michael Williams, California State University Channel Islands  
 **Title**: Inverted Cassini Ovals and Their Surfaces  
