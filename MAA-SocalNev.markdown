@@ -7,7 +7,7 @@ tag: MAA S2022 Poster
 ---
 - For abstracts, refer to this file, [abstracts]({{ 'assets/MAA/Poster.pdf' | relative_url | prepend: site.url }})
 - For posters, click on the title.
-- Presentation 13 and 18 are virtual.
+- Presentation 13 and 18 are virtual; [abstracts]({{ 'assets/MAA/PosterVirtual.pdf' | relative_url | prepend: site.url }}) for the virtual talks
 - All files in the PDF format.
 - A [link](http://sections.maa.org/socalnv/Meeting2022Spring.html) to the Meeting Schedule Page
 
@@ -39,7 +39,7 @@ tag: MAA S2022 Poster
 **Title**: Coloring Abelian Cayley Graphs  
 **Poster Area(s)**: Graph Theory/Combinatorics, Algebra
 
-1. **Presenter(s)**: Ricardo Suarez, UNITO (University of Turin ) and CSUCI  
+1. **Presenter(s)**: Ricardo Suarez, UNITO (University of Turin) and CSUCI  
 **Title**: [Idempotent Clifford Bundles]({{ 'assets/MAA/Posters/Suarez.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Geometry, Algebra, Topology
 
