@@ -5,9 +5,10 @@ layout: default
 title: MAA-SocalNev
 tag: MAA S2022 Poster
 ---
-For abstracts, refer to this file, [abstracts]({{ 'assets/MAA/Poster.pdf' | relative_url | prepend: site.url }})
-
-For posters, click on the title.
+- For abstracts, refer to this file, [abstracts]({{ 'assets/MAA/Poster.pdf' | relative_url | prepend: site.url }})
+- For posters, click on the title.
+- Presentation 13 and 18 are virtual.
+- All files in the PDF format.
 
 1. **Presenter(s)**: Michael Williams, California State University Channel Islands  
 **Title**: Inverted Cassini Ovals and Their Surfaces  
@@ -18,7 +19,7 @@ For posters, click on the title.
 **Poster Area(s)**: Graph Theory/Combinatorics
 
 1. **Presenter(s)**: Jacob Cornejo, California State University - Long Beach  
-**Title**: Matrix-valued Holomorphic Cross-sections Over an Annulus  
+**Title**: [Matrix-valued Holomorphic Cross-sections Over an Annulus]({{ 'assets/MAA/Posters/Cornejo.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Analysis
 
 1. **Presenter(s)**: Johnny Sierra and Jessica Toy, Cal State LA Mathematics Dept.  
@@ -26,7 +27,7 @@ For posters, click on the title.
 **Poster Area(s)**: Graph Theory/Combinatorics
  
 1. **Presenter(s)**: Valerie Trujillo and Michael Yates, University of La Verne/Cal Poly Pomona  
-**Title**: PRYME Pomona Hope  
+**Title**: [PRYME Pomona Hope]({{ 'assets/MAA/Posters/PRYME.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Education/Pedagogy
 
 1. **Presenter(s)**: Clayton Coe, California State Polytechnic University, Pomona  
@@ -38,27 +39,27 @@ For posters, click on the title.
 **Poster Area(s)**: Graph Theory/Combinatorics, Algebra
 
 1. **Presenter(s)**: Ricardo Suarez, UNITO (University of Turin ) and CSUCI  
-**Title**: Idempotent Clifford Bundles  
+**Title**: [Idempotent Clifford Bundles]({{ 'assets/MAA/Posters/Suarez.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Geometry, Algebra, Topology
 
 1. **Presenter(s)**: Dylan Stover, California State University Channel Islands  
 **Title**: Introduction to Numerical Sets and Primality  
 **Poster Area(s)**: Education/Pedagogy
  
-1. **Presenter(s)**: Zo¨e Batterman, Pomona College  
-**Title**: Metrics on Ideals and the Hausdorff Distance  
+1. **Presenter(s)**: Zoe Batterman, Pomona College  
+**Title**: [Metrics on Ideals and the Hausdorff Distance]({{ 'assets/MAA/Posters/Batterman.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Analysis, Algebra
 
 1. **Presenter(s)**: Erik Bravo, CSU Channel Islands  
-**Title**: Students and the Struggle with Mathematical Quantifiers  
+**Title**: [Students and the Struggle with Mathematical Quantifiers]({{ 'assets/MAA/Posters/Bravo.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Education/Pedagogy, Understanding Mathematical Quantifiers
 
 1. **Presenter(s)**: Steven Jang, Cal Poly Pomona  
 **Title**: Computing an Interesting Limit  
 **Poster Area(s)**: Analysis
 
-1. **Presenter(s)**: Citlalli Villegas, California State University Channel Islands  
-**Title**: Understanding of Mathematical Induction  
+1. (Virtual) **Presenter(s)**: Citlalli Villegas, California State University Channel Islands  
+**Title**: [Understanding of Mathematical Induction]({{ 'assets/MAA/Posters/Villegas.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Education/Pedagogy, Mathematical Proofs
  
 1. **Presenter(s)**: Natasha Arnold, Tianna Couch, Brandon Douglas, Tadius Frank, and Christina Marsh, Cal Poly Pomona/Pomona College  
@@ -77,5 +78,5 @@ For posters, click on the title.
 **Title**: Investigating Diagonalizable Matrices Modulo m  
 **Poster Area(s)**: Number Theory, Algebra
 
-1. **Presenters(s)**: Karthik Mittal, Aditya Mittal, James Logan High School  
-**Title**: Determining Smallest Path Size of Multiplication Transducers Without a Restricted Digit Set  
+1. (Virtual) **Presenters(s)**: Karthik Mittal, Aditya Mittal, James Logan High School  
+**Title**: [Determining Smallest Path Size of Multiplication Transducers]Without a Restricted Digit Set]({{ 'assets/MAA/Posters/Mittal.pdf' | relative_url | prepend: site.url }})
