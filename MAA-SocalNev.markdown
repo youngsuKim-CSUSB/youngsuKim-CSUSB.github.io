@@ -76,3 +76,6 @@ For posters, click on the title.
 1. **Presenter(s)**: Dylan Joseph Stover, California State University Channel Islands  
 **Title**: Investigating Diagonalizable Matrices Modulo m  
 **Poster Area(s)**: Number Theory, Algebra
+
+1. **Presenters(s)**: Karthik Mittal, Aditya Mittal, James Logan High School  
+**Title**: Determining Smallest Path Size of Multiplication Transducers Without a Restricted Digit Set  
