@@ -64,7 +64,7 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: Education/Pedagogy, Mathematical Proofs
  
 1. **Presenter(s)**: Natasha Arnold, Tianna Couch, Brandon Douglas, Tadius Frank, and Christina Marsh, Cal Poly Pomona/Pomona College  
-**Title**: Searching for Black Women in Mathematics  
+**Title**: [Searching for Black Women in Mathematics]({{ 'assets/MAA/Posters/MADDER.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: History/Philosophy of Mathematics
 
 1. **Presenter(s)**: Dante Christian, Virgil Munyemana, and Erin Sewell, Pomona College  
