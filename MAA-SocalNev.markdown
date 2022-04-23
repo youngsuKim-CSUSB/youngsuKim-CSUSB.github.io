@@ -64,7 +64,7 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: Education/Pedagogy, Mathematical Proofs
  
 1. **Presenter(s)**: Natasha Arnold, Tianna Couch, Brandon Douglas, Tadius Frank, and Christina Marsh, Cal Poly Pomona/Pomona College  
-**Title**: [Searching for Black Women in Mathematics]({{ 'assets/MAA/Posters/MADDER.pdf' | relative_url | prepend: site.url }})  
+**Title**: [Searching for Black Women in Mathematics]({{ 'assets/MAA/Posters/Madder.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: History/Philosophy of Mathematics
 
 1. **Presenter(s)**: Dante Christian, Virgil Munyemana, and Erin Sewell, Pomona College  
@@ -80,4 +80,4 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: Number Theory, Algebra
 
 1. (Virtual) **Presenters(s)**: Karthik Mittal, Aditya Mittal, James Logan High School  
-**Title**: [Determining Smallest Path Size of Multiplication Transducers]Without a Restricted Digit Set]({{ 'assets/MAA/Posters/Mittal.pdf' | relative_url | prepend: site.url }})
+**Title**: [Determining Smallest Path Size of Multiplication Transducers Without a Restricted Digit Set]({{ 'assets/MAA/Posters/Mittal.pdf' | relative_url | prepend: site.url }})
