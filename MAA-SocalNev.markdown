@@ -32,7 +32,7 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: Education/Pedagogy
 
 1. **Presenter(s)**: Clayton Coe, California State Polytechnic University, Pomona  
-**Title**: Generalization of Problem 4716 from Crux Mathematicorum  
+**Title**: [Generalization of Problem 4716 from Crux Mathematicorum]({{ 'assets/MAA/Posters/Coe.pdf' | relative_url | prepend: site.url }})    
 **Poster Area(s)**: Geometry, Algebra
 
 1. **Presenter(s)**: Jonathan Cervantes, California State University, Los Angeles  
