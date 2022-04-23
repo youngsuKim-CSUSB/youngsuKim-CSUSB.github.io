@@ -7,16 +7,16 @@ tag: MAA S2022 Poster
 ---
 - For abstracts, refer to this file, [abstracts]({{ 'assets/MAA/Poster.pdf' | relative_url | prepend: site.url }})
 - For posters, click on the title.
-- Presentation 13 and 18 are virtual; [abstracts]({{ 'assets/MAA/PosterVirtual.pdf' | relative_url | prepend: site.url }}) for the virtual talks
+- Presentation 12, 13, and 18 are virtual; [abstracts]({{ 'assets/MAA/PosterVirtual.pdf' | relative_url | prepend: site.url }}) for the virtual talks
 - All files in the PDF format.
 - A [link](http://sections.maa.org/socalnv/Meeting2022Spring.html) to the Meeting Schedule Page
 
 1. **Presenter(s)**: Michael Williams, California State University Channel Islands  
-**Title**: Inverted Cassini Ovals and Their Surfaces  
+**Title**: [Inverted Cassini Ovals and Their Surfaces]({{ 'assets/MAA/Posters/Williams.pdf' | relative_url | prepend: site.url }})    
 **Poster Area(s)**: Geometry, Algebra
 
 1. **Presenter(s)**: Nicholas Drain, California Lutheran University  
-**Title**: Public Key Cryptography Using Graph Theory  
+**Title**: [Public Key Cryptography Using Graph Theory]({{ 'assets/MAA/Posters/Drain.pdf' | relative_url | prepend: site.url }})    
 **Poster Area(s)**: Graph Theory/Combinatorics
 
 1. **Presenter(s)**: Jacob Cornejo, California State University - Long Beach  
@@ -24,7 +24,7 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: Analysis
 
 1. **Presenter(s)**: Johnny Sierra and Jessica Toy, Cal State LA Mathematics Dept.  
-**Title**: Antimagic Labeling of Forest  
+**Title**: [Antimagic Labeling of Forest]({{ 'assets/MAA/Posters/Sierra-Toy.pdf' | relative_url | prepend: site.url }})    
 **Poster Area(s)**: Graph Theory/Combinatorics
  
 1. **Presenter(s)**: Valerie Trujillo and Michael Yates, University of La Verne/Cal Poly Pomona  
@@ -36,7 +36,7 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: Geometry, Algebra
 
 1. **Presenter(s)**: Jonathan Cervantes, California State University, Los Angeles  
-**Title**: Coloring Abelian Cayley Graphs  
+**Title**: [Coloring Abelian Cayley Graphs]({{ 'assets/MAA/Posters/Cervantes.pdf' | relative_url | prepend: site.url }})    
 **Poster Area(s)**: Graph Theory/Combinatorics, Algebra
 
 1. **Presenter(s)**: Ricardo Suarez, UNITO (University of Turin) and CSUCI  
@@ -44,7 +44,7 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: Geometry, Algebra, Topology
 
 1. **Presenter(s)**: Dylan Stover, California State University Channel Islands  
-**Title**: Introduction to Numerical Sets and Primality  
+**Title**: [Introduction to Numerical Sets and Primality]({{ 'assets/MAA/Posters/Stover.pdf' | relative_url | prepend: site.url }})    
 **Poster Area(s)**: Education/Pedagogy
  
 1. **Presenter(s)**: Zoe Batterman, Pomona College  
@@ -55,7 +55,7 @@ tag: MAA S2022 Poster
 **Title**: [Students and the Struggle with Mathematical Quantifiers]({{ 'assets/MAA/Posters/Bravo.pdf' | relative_url | prepend: site.url }})  
 **Poster Area(s)**: Education/Pedagogy, Understanding Mathematical Quantifiers
 
-1. **Presenter(s)**: Steven Jang, Cal Poly Pomona  
+1. (Virtual) **Presenter(s)**: Steven Jang, Cal Poly Pomona  
 **Title**: Computing an Interesting Limit  
 **Poster Area(s)**: Analysis
 
@@ -76,7 +76,7 @@ tag: MAA S2022 Poster
 **Poster Area(s)**: History/Philosophy of Mathematics
 
 1. **Presenter(s)**: Dylan Joseph Stover, California State University Channel Islands  
-**Title**: Investigating Diagonalizable Matrices Modulo m  
+**Title**: [Investigating Diagonalizable Matrices Modulo m]({{ 'assets/MAA/Posters/Stover2.pdf' | relative_url | prepend: site.url }})    
 **Poster Area(s)**: Number Theory, Algebra
 
 1. (Virtual) **Presenters(s)**: Karthik Mittal, Aditya Mittal, James Logan High School  
