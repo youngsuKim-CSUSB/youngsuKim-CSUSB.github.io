@@ -236,10 +236,6 @@ GEM
     mercenary (0.3.6)
     minitest (5.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.13.4-aarch64-linux)
-      racc (~> 1.4)
-    nokogiri (1.13.4-arm64-darwin)
-      racc (~> 1.4)
     nokogiri (1.13.4-x86_64-darwin)
       racc (~> 1.4)
     octokit (4.22.0)
@@ -282,15 +278,12 @@ GEM
     zeitwerk (2.5.4)
 
 PLATFORMS
-  aarch64-linux-android
-  arm64-darwin-21
   x86_64-darwin-21
 
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   minima!
-  nokogiri (~> 1.4)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
