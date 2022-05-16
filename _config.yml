@@ -30,9 +30,15 @@ url: "https://youngsukim-csusb.github.io"
 
 # Build settings
 theme: minima
+# minima:
+#   skin: dark
+#   date_format: "%b %-d, %Y"
+
 plugins:
   - jekyll-feed
+  - jekyll-email-protect
 
+timezone: PST8PDT
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
