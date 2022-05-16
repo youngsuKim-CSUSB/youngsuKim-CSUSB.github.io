@@ -11,6 +11,8 @@ Students do not need to create an account, but they need to put their names once
 The grade book does not sync automatically.
 Please visit the [official webpage](https://www.myopenmath.com/help.php?section=lti) for details.
 
+Caveat: If you want to import each assignment (this method syncs grades automatically), follow these [instructions](https://express.adobe.com/page/cKaquR5CpbyyQ/).
+
 ***
 ### Assumption
 * access to Canvas 
