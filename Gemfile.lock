@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/minima.git
-  revision: 69664442e5a45f631d5bccaba6d7978a91ce22c8
+  revision: 296bf6b872b8450529bee1e48d0ca9be200a4be5
   specs:
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -10,7 +10,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.4.8)
+    activesupport (6.0.5)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -236,7 +236,9 @@ GEM
     mercenary (0.3.6)
     minitest (5.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.13.4-x86_64-darwin)
+    nokogiri (1.13.6-aarch64-linux)
+      racc (~> 1.4)
+    nokogiri (1.13.6-x86_64-darwin)
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
@@ -278,12 +280,14 @@ GEM
     zeitwerk (2.5.4)
 
 PLATFORMS
+  aarch64-linux-android
   x86_64-darwin-21
 
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   minima!
+  nokogiri (~> 1.13.4)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
