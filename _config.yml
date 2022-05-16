@@ -31,8 +31,8 @@ repository: youngsuKim-CSUSB/youngsukim-csusb.github.io
 
 # Build settings
 theme: minima
-# minima:
-#   skin: dark
+minima:
+  skin: dark
 #   date_format: "%b %-d, %Y"
 
 plugins:
