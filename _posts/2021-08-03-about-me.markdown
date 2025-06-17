@@ -16,7 +16,7 @@ categories: about me
 ## About me
 <img style="float: right; margin: 0px 10px 15px 15px;" src="{{ 'assets/myImage.jpg' | relative_url }}" width="15%" />I am an assistant professor at [California State University San Bernardino](https://www.csusb.edu/) in the [department of mathematics](https://www.csusb.edu/mathematics). Formerly, I was a visiting assistant professor at the University of Arkansas and University of California Riverside. I earned my PhD from Purdue University under the guidance of Prof. Bernd Ulrich.  My main interest is [commutative algebra](https://en.wikipedia.org/wiki/Commutative_algebra) and [algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry). In addition, I am a [High-Performance Computing faculty fellow](https://www.csusb.edu/high-performance-computing) at CSUSB since F2021. 
 
-* [CV]({{ 'assets/CV_Youngsu_Kim.pdf' | relative_url }}), updated June 2023.
+* [CV]({{ 'assets/CV_Youngsu_Kim.pdf' | relative_url }}), updated June 2025.
 <!-- * {{ 'assets/CV_Youngsu_Kim.pdf' | relative_url }} -->
 * Office: JB 320
 * Email: youngsu.kim a t csusb dot edu

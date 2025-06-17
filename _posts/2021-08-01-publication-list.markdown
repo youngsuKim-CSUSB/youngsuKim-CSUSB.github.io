@@ -5,8 +5,9 @@ date:   2021-08-02 00:00:00 -0700
 categories: about me
 ---
 ## Publications/Work in progress
-* With Jaiung Jun and Matthew Pisano, *On Picard groups and Jacobians of directed graphs*, [arxiv:2302.10327](https://arxiv.org/abs/2302.10327).
-* With Justin Chen and Jonathan Montaño, Computing multiplicity sequences , submitted, [arxiv:2103.14175](https://arxiv.org/abs/2103.14175).
+* With Jaiung Jun and Matthew Pisano, *On Picard groups and Jacobians of directed graphs*, 
+Linear Algebra and its Applications 711 (2025), 180-211 [arxiv:2302.10327](https://arxiv.org/abs/2302.10327).
+* With Justin Chen and Jonathan Montaño, Computing multiplicity sequences, Journal of Software for Algebra and Geometry, 14 (2024), 13–18, [arxiv:2103.14175](https://arxiv.org/abs/2103.14175).
 * With Thiago H. Freitas and Victor H. Jorge Perez, *On the study of the top non-vanishing formal local cohomology module*, in progress.
 * With Lance. E. Miller and Wenbo Niu, *Log canonical thresholds of generic links of determinantal varieties*, Proc. Amer. Math. Soc. 149 (2021), 2777-2787, [arxiv:1908.03892](https://www.arxiv.com/abs/1908.03892).
 * With Andy Walker, *A note on non-Noetherian Cohen-Macaulay rings*, Proc. Amer. Math. Soc.  148 (2020), 1031-1042, [arxiv:1812.05079](https://www.arxiv.com/abs/1812.05079). 
