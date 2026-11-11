@@ -1,0 +1,15 @@
+# Jekyll build output. The deployed copy lives on the gh-pages branch, and the
+# Pages workflow builds into a throwaway directory, so this should not be tracked.
+_site/
+_site-trial/
+
+# Caches
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# macOS
+.DS_Store
+
+# Local bundler installs
+vendor/bundle/
