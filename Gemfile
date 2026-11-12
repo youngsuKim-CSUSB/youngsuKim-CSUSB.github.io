@@ -11,7 +11,9 @@ source "https://rubygems.org"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
-gem "minima", github: "jekyll/minima"
+# The theme itself is pinned in _config.yml via remote_theme, so it is not declared as a
+# gem here. That keeps the Pages build and local `bundle exec jekyll serve` in sync.
+gem "jekyll-remote-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -21,17 +23,21 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
+# Windows and JRuby do not include zoneinfo files, so bundle the tzinfo-data gem.
+# (tzinfo itself is deliberately not pinned here: ~> 1.2 conflicts with the
+# tzinfo ~> 2.0 that activesupport requires, which blocked dependency updates.)
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-gem "webrick", "~> 1.7"
+# ~> 1.8 (not >= 1.8.2) so the requirement stays satisfiable by the gems GitHub's
+# Pages image pins; a fresh local resolve still picks up 1.8.2+.
+gem "webrick", "~> 1.8"
 
-gem "nokogiri", "~> 1.13.4"
+# Do not pin nokogiri below what the github-pages gem requires (>= 1.16.2): a tight
+# upper pin here is what kept 1.13.x, and its advisories, locked in Gemfile.lock.
+gem "nokogiri", ">= 1.16.2"
 

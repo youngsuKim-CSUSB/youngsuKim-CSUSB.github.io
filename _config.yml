@@ -30,7 +30,10 @@ repository: youngsuKim-CSUSB/youngsukim-csusb.github.io
 # github_username:  youngsuKim-CSUSB
 
 # Build settings
-theme: minima
+# The dark skin only exists on jekyll/minima's main branch, not in the released 2.5.1
+# gem that ships with the github-pages gem. Pin the theme to the revision this site was
+# built with, as a remote theme, so GitHub's Pages build and `jekyll serve` match.
+remote_theme: jekyll/minima@da43ba27a5d643f3ead1e1aad6764a28ef5a92c1
 minima:
   skin: dark
 #   date_format: "%b %-d, %Y"
