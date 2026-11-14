@@ -38,9 +38,11 @@ minima:
   skin: dark
 #   date_format: "%b %-d, %Y"
 
+# jekyll-email-protect intentionally not listed: it is not on GitHub Pages' plugin
+# whitelist (see github-pages/plugins.rb in pages-gem), so it never loads in a Pages
+# build. Any address that must be published has to be obfuscated in the content itself.
 plugins:
   - jekyll-feed
-  - jekyll-email-protect
 
 timezone: PST8PDT
 # Exclude from processing.
